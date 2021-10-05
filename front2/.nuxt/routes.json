@@ -1,0 +1,23 @@
+[
+  {
+    "name": "dong",
+    "path": "/dong",
+    "component": "C:\\\\Users\\\\김동영\\\\Desktop\\\\학교\\\\2classproject\\\\front2\\\\pages\\\\dong.vue",
+    "chunkName": "pages/dong",
+    "_name": "_3f540eac"
+  },
+  {
+    "name": "kim",
+    "path": "/kim",
+    "component": "C:\\\\Users\\\\김동영\\\\Desktop\\\\학교\\\\2classproject\\\\front2\\\\pages\\\\kim.vue",
+    "chunkName": "pages/kim",
+    "_name": "_4b01f8ce"
+  },
+  {
+    "name": "yeong",
+    "path": "/yeong",
+    "component": "C:\\\\Users\\\\김동영\\\\Desktop\\\\학교\\\\2classproject\\\\front2\\\\pages\\\\yeong.vue",
+    "chunkName": "pages/yeong",
+    "_name": "_edd5b4b4"
+  }
+]
